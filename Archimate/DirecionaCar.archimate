@@ -8,14 +8,14 @@
     </folder>
     <folder name="Business Process" id="id-4ea991564406402c92944755cb185e63">
       <element xsi:type="archimate:BusinessProcess" name="Check-in" id="id-b300814b805c4f3aaf4294923f2185a2"/>
-      <element xsi:type="archimate:BusinessProcess" name="Cadastrar o cliente" id="id-44ae34a950e04aae81f7c0ca294a5bdc"/>
+      <element xsi:type="archimate:BusinessProcess" name="Manter o cliente" id="id-44ae34a950e04aae81f7c0ca294a5bdc"/>
       <element xsi:type="archimate:BusinessProcess" name="Localizar um veículo disponível" id="id-3da9631cffc24dd9843d0e4c1c1c9f62"/>
       <element xsi:type="archimate:BusinessProcess" name="Gerar contrato de locação" id="id-9ab3646ffb4d48d9ac6ac7867b477ec7"/>
       <element xsi:type="archimate:BusinessProcess" name="Aceitar contrato de locação" id="id-826e22f2d31140b0a863a0f2eb3ba986"/>
       <element xsi:type="archimate:BusinessProcess" name="Processar pré-autorização no cartão" id="id-760c24d1b19044cea060646ed1cbd7c7"/>
       <element xsi:type="archimate:BusinessProcess" name="Liberar veiculo" id="id-4563bc2b8dac44f8a07478f79f360450"/>
       <element xsi:type="archimate:BusinessProcess" name="Desbloquear o veículo" id="id-d073148d63364c69bf48d638e6b343e8"/>
-      <element xsi:type="archimate:BusinessProcess" name="Lozalizar a estação mais próxima" id="id-99d6b975aef0454b813863e158330dd2"/>
+      <element xsi:type="archimate:BusinessProcess" name="Localizar a estação mais próxima" id="id-99d6b975aef0454b813863e158330dd2"/>
       <element xsi:type="archimate:BusinessProcess" name="Vistoriar o veículo" id="id-d218b3b994ef44cc855c55cba1267bcd"/>
       <element xsi:type="archimate:BusinessProcess" name="Check-out" id="id-6eebce9221364a4ea184b89e2cb7b209"/>
       <element xsi:type="archimate:BusinessProcess" name="Localizar o cliente" id="id-5ffdf559e18749849c8a543c279a4b0f"/>
@@ -38,7 +38,7 @@
   <folder name="Motivation" id="id-6bc2a9b894104b4eb58f63dbf851d167" type="motivation">
     <folder name="Driver" id="id-9c56d3eb904049cd9a3da4c553d11bdf">
       <element xsi:type="archimate:Driver" name="Meta de locação" id="id-04ef18622d2e4bec99640bca73dc95c2"/>
-      <element xsi:type="archimate:Driver" name="Satisfação do Assionista" id="id-96956cd821884cc5a6aeec0dd0184a90"/>
+      <element xsi:type="archimate:Driver" name="Satisfação do Acionista" id="id-96956cd821884cc5a6aeec0dd0184a90"/>
       <element xsi:type="archimate:Driver" name="Lucratividade" id="id-b1f812faf1134cd09ca0f483a0fbf251"/>
       <element xsi:type="archimate:Driver" name="Satisfação do Cliente" id="id-dce4360e979449b897ba533970d43f9a"/>
       <element xsi:type="archimate:Driver" name="Portifólio" id="id-475998ee87704535ab2f851e3ed63847"/>
@@ -58,7 +58,7 @@
       <element xsi:type="archimate:Goal" name="Satisfação do cliente" id="id-7a685c2fc3b34dd3b6d8014eb5bc29f7"/>
     </folder>
     <folder name="Principle" id="id-ca66dcad34434e1da503a8515c814b6c">
-      <element xsi:type="archimate:Principle" name="Pontos de recarga" id="id-dfa4783a32d444d8a9062eefde7bf151"/>
+      <element xsi:type="archimate:Principle" name="Pontos de recarga do veículo" id="id-dfa4783a32d444d8a9062eefde7bf151"/>
       <element xsi:type="archimate:Principle" name="Único App com suporte do bot" id="id-77c398c4f81e4195ab49a98136faf4f7"/>
     </folder>
     <folder name="Assessment" id="id-dd21024e6df340018d590be340db8c73">
